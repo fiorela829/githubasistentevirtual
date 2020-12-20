@@ -1,0 +1,17 @@
+*{
+    margin:0 auto;
+    padding:auto;
+}
+body{
+    background:url(../imagenes/ini.jpg);
+}
+.Pared{
+    margin:10px;
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.Pared2{
+    color:white;
+    
+}
